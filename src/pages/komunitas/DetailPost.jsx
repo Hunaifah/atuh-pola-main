@@ -19,7 +19,7 @@ function DetailPost() {
       <Header activeNav={activeNav} />
       <div className="content-komunitas-detail-post">
         <div className="btn-back-group">
-          <Link to="/komunitas-user/Hunaifah" className="btn-back">
+          <Link to="/komunitas-user" className="btn-back">
             <img src={IconArrowBack} alt="icon-arrow-back" />
             <p>Back to Komunitas</p>
           </Link>
